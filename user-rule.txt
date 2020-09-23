@@ -1,0 +1,16 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||telerik.com^
+||docker.com^
+||jetbrains.com^
+||hp.com^
+||github.com^
+||github.io^
+||geeksforgeeks.org^
+||sqlite.org^
+||isc.org^
+||jqueryui.com^
+||npm.community^
+||jquery.com^
+||playio1.com^
+||tutorialspoint.com^
