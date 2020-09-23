@@ -1,2 +1,2 @@
 # pac
-pac file that work on ShadowsocksR in China
+pac file that work with ShadowsocksR in China
