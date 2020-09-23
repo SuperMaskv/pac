@@ -1,6 +1,6 @@
 # pac
 
-pac file that work with ShadowsocksR in China Mainland.  
+pac file that work with ShadowsocksR in China Mainland.
 There is a list of domains that is not in GFW list but access easily by proxy.  
 You can add any kinds of website in this pac file, as long as this website meet the following conditions:
 
