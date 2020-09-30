@@ -13,6 +13,8 @@
 ||npm.community^
 ||jquery.com^
 ||playio1.com^
+||18comic.vip^
+||18comic.org^
 ||tutorialspoint.com^
 ||google-analytics.com^
 ||2dimensions.com^
@@ -101,3 +103,7 @@
 ||flutter.dev^
 ||googleusercontent.com^
 ||material.io^
+||sleazyfork.org^
+||daumcdn.net^
+||cdn-msp.msp-comic.xyz^
+||cdn-msp.msp-comic1.xyz^
