@@ -22,5 +22,8 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v2.1.3
       
-      - name: Run python script
-        run: python check.py
+      - name: check pwd
+        run: pwd
+      
+      - name: list files in directory
+        run: ls
