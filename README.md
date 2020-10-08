@@ -10,3 +10,8 @@ You can add any kinds of website in this pac file, as long as this website meet 
 2. The website CAN'T access easily in China Mainland, but it CAN be accessed easily by proxy.
 
 GFW list named "pac.txt" is in the root path of the repo.
+
+
+
+You can use `python check.py` after add new rules in `user-rule.txt`.
+
