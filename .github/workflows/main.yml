@@ -24,6 +24,9 @@ jobs:
       
       - name: check pwd
         run: pwd
+        
+      - name: cd ..
+        run: cd ..
       
       - name: list files in directory
         run: ls
