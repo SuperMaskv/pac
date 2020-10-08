@@ -107,3 +107,5 @@
 ||daumcdn.net^
 ||cdn-msp.msp-comic.xyz^
 ||cdn-msp.msp-comic1.xyz^
+||jupyter.org^
+||mybinder.org^
