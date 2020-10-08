@@ -27,5 +27,4 @@ jobs:
       
       - name: check pwd
         run: |
-          cd ..
           ls
