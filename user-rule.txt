@@ -58,12 +58,13 @@
 ||maxon.net^
 ||motionsquared.net^
 ||mozilla.org^
+||mvnrepository.com^
 ||mybinder.org^
 ||neowin.net^
 ||npm.community^
 ||online-audio-converter.com^
 ||oracle.com^
-||playio1.com^
+||play.kotlinlang.org^||playio1.com^
 ||proandroiddev.com^
 ||pub.dev^
 ||python.org^
@@ -76,7 +77,9 @@
 ||telerik.com^
 ||tutorialspoint.com^
 ||typekit.net^
+||u.gg^
 ||unsplash.com^
+||vertx.io^
 ||vimeocdn.com^
 ||vuejs.org^
 ||vuematerial.io^
