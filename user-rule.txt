@@ -12,6 +12,7 @@
 ||algolianet.com^
 ||amazon.com^
 ||amazonaws.com^
+||apache.org^
 ||appicon.co^
 ||appveyor.com^
 ||atlassian.com^
@@ -51,6 +52,7 @@
 ||google.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||gradle.org^
 ||gravatar.com^
 ||hooray.github.io^
 ||hp.com^
@@ -75,6 +77,7 @@
 ||npm.community^
 ||online-audio-converter.com^
 ||oracle.com^
+||play.kotlinlang.org^
 ||play.kotlinlang.org^||playio1.com^
 ||proandroiddev.com^
 ||pub.dev^
@@ -109,9 +112,3 @@
 ||xda-cdn.com^
 ||xda-developers.com^
 ||zdassets.com^
-||mvnrepository.com^
-||play.kotlinlang.org^
-||gradle.org^
-||apache.org^
-||u.gg^
-||vertx.io^
