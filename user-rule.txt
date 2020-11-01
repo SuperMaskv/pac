@@ -86,6 +86,7 @@
 ||regexr.com^
 ||scorecardresearch.com^
 ||sleazyfork.org^
+||spring.io^
 ||sqlite.org^
 ||sstatic.net^
 ||stackoverflow.com^
@@ -96,6 +97,7 @@
 ||tutorialspoint.com^
 ||typekit.net^
 ||u.gg^
+||udacity.com^
 ||unsplash.com^
 ||user-images.githubusercontent.com^
 ||vertx.io^
