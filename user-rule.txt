@@ -65,6 +65,7 @@
 ||jsfiddle.net^
 ||jshell.net^
 ||jupyter.org^
+||leetcode.com^
 ||lyrae.us^
 ||manjaro.org^
 ||maxon.net^
