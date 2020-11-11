@@ -10,17 +10,17 @@
 ||ajax.googleapis.com^
 ||algolia.net^
 ||algolianet.com^
+||amazon-adsystem.com^
 ||amazon.com^
 ||amazonaws.com^
 ||apache.org^
 ||appicon.co^
 ||appveyor.com^
 ||atlassian.com^
+||automators.fm^
 ||awen.me^
 ||bohongtao.online^
 ||bootstrapcdn.com^
-||cdn-msp.msp-comic.xyz^
-||cdn-msp.msp-comic1.xyz^
 ||cloudfront.net^
 ||codepen.io^
 ||csp.withgoogle.com^
@@ -35,6 +35,8 @@
 ||docker.com^
 ||dyncdn.me^
 ||eleme.io^
+||epicgames.com^
+||extron.com^
 ||figma.com^
 ||fitruums.com^
 ||flutter-widget.live^
@@ -71,6 +73,8 @@
 ||maxon.net^
 ||motionsquared.net^
 ||mozilla.org^
+||msp-comic.xyz^
+||msp-comic1.xyz^
 ||mvnrepository.com^
 ||mybinder.org^
 ||myqcloud.com^
@@ -84,7 +88,9 @@
 ||pub.dev^
 ||python.org^
 ||raw.githubusercontent.com^
+||reactjs.org^
 ||regexr.com^
+||run.app^
 ||scorecardresearch.com^
 ||sleazyfork.org^
 ||spring.io^
@@ -95,6 +101,7 @@
 ||sunhotels.com^
 ||telerik.com^
 ||thetopsites.net^
+||threejs.org^
 ||tutorialspoint.com^
 ||typekit.net^
 ||u.gg^
@@ -108,6 +115,7 @@
 ||vuematerial.io^
 ||wallstreetcn.com^
 ||wikidata.org^
+||wildblue.digital^
 ||winfuture-forum.de^
 ||wootric.com^
 ||www.googleapis.com^
