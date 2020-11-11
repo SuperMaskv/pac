@@ -71,7 +71,6 @@
 ||lyrae.us^
 ||manjaro.org^
 ||maxon.net^
-||microsoft.com^
 ||motionsquared.net^
 ||mozilla.org^
 ||msp-comic.xyz^
