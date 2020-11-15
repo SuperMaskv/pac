@@ -21,8 +21,10 @@
 ||awen.me^
 ||bohongtao.online^
 ||bootstrapcdn.com^
+||chart.googleapis.com^
 ||cloudfront.net^
 ||codepen.io^
+||content-developerprofiles-pa.googleapis.com^
 ||csp.withgoogle.com^
 ||ctfassets.net^
 ||dart-services-0.appspot.com^
@@ -37,6 +39,7 @@
 ||eleme.io^
 ||epicgames.com^
 ||extron.com^
+||facebook.net^
 ||figma.com^
 ||fitruums.com^
 ||flutter-widget.live^
@@ -79,6 +82,7 @@
 ||mybinder.org^
 ||myqcloud.com^
 ||neowin.net^
+||newmobilelife.com^
 ||nodejs.org^||npm.community^
 ||online-audio-converter.com^
 ||oracle.com^
