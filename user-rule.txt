@@ -23,6 +23,7 @@
 ||bohongtao.online^
 ||bootstrapcdn.com^
 ||chart.googleapis.com^
+||cloudflare.com^
 ||cloudfront.net^
 ||codepen.io^
 ||content-developerprofiles-pa.googleapis.com^
@@ -34,9 +35,11 @@
 ||dartpad.dev^
 ||daumcdn.net^
 ||deefun.com^
+||developerlibs.com^
 ||deviantart.com^
 ||disquscdn.com^
 ||docker.com^
+||dragonstatic.com^
 ||dyncdn.me^
 ||eleme.io^
 ||epicgames.com^
@@ -44,6 +47,7 @@
 ||facebook.net^
 ||figma.com^
 ||fitruums.com^
+||fluidos.me^
 ||flutter-widget.live^
 ||flutter.dev^
 ||flutter_simple_treeview.surge.sh^
@@ -74,9 +78,11 @@
 ||jsfiddle.net^
 ||jshell.net^
 ||jupyter.org^
+||keka.io^
 ||leetcode.com^
 ||lyrae.us^
 ||manjaro.org^
+||material.io^
 ||maxon.net^
 ||motionsquared.net^
 ||mozilla.org^
@@ -108,6 +114,7 @@
 ||stackoverflow.com^
 ||stackpathcdn.com^
 ||stripe.com^
+||subhd.la^
 ||sunhotels.com^
 ||telerik.com^
 ||thetopsites.net^
@@ -134,3 +141,4 @@
 ||xda-cdn.com^
 ||xda-developers.com^
 ||zdassets.com^
+||zunmi.cn^
