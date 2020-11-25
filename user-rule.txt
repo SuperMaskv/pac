@@ -4,6 +4,7 @@
 ||18comic.org^
 ||18comic.vip^
 ||2dimensions.com^
+||addthis.com^
 ||adobe.com^
 ||adobe.io^
 ||adobeoobe.com^
@@ -18,10 +19,11 @@
 ||appveyor.com^
 ||atlassian.com^
 ||automators.fm^
-||githubusercontent.com^
 ||awen.me^
 ||bohongtao.online^
 ||bootstrapcdn.com^
+||bp.blogspot.com^
+||cdpn.io^
 ||chart.googleapis.com^
 ||cloudflare.com^
 ||cloudfront.net^
@@ -68,6 +70,7 @@
 ||gravatar.com^
 ||hooray.github.io^
 ||hp.com^
+||icloud-doctor.blogspot.com^
 ||idqqimg.com^
 ||instructure.com^
 ||isc.org^
@@ -82,7 +85,6 @@
 ||leetcode.com^
 ||lyrae.us^
 ||manjaro.org^
-||material.io^
 ||maxon.net^
 ||motionsquared.net^
 ||mozilla.org^
